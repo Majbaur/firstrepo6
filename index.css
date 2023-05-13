@@ -1,0 +1,19 @@
+
+div{
+    background-color: aquamarine;
+    height: 100%;
+    border: 10px solid rgba(52, 43, 124, 0.463);
+    margin: 50px;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 300px;
+    margin-left: 300px;
+    padding: 10px;
+}
+.ture-name{
+    color: darkblue;
+}
+i{
+    color: rebeccapurple;
+}
